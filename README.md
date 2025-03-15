@@ -1,11 +1,4 @@
-# Scrapybara DoorDash Menu Scraper
-
-A tool for extracting menu item details from DoorDash restaurant listings.
-
-## Quick Start Guide
-
-### Prerequisites
-
+Scrapybara DoorDash Menu Scraper, a tool for extracting menu items from DoorDash restaurant listings.
 - Python 3.7+
 - Scrapybara account and API key
 

@@ -11,14 +11,20 @@ A tool for extracting menu item details from DoorDash restaurant listings.
 
 ### Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/scrapybara-doordash-scraper.git
-   cd scrapybara-doordash-scraper
-   ```
+1. Clone the repository
 
-2. **Install the dependencies**
+2. Install the dependencies in a venv
    ```bash
     pip install scrapybara playwright asyncio
    ```
+   
+3. Install the Playwright browser
+   ```bash
+    playwright install chromium
+   ```
+4. Set up scrapybara API key
+   ```bash
+    export SCRAPYBARA_API_KEY="your_api_key_here"
+   ```
+
 
